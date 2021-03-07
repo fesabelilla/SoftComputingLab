@@ -1,0 +1,31 @@
+s1
+Batch Size = 100
+Number of iterations = 6000
+Learning Rate = 0.01
+Num of Hidden Nodes = 100
+Accuracy: 51.89
+Number of Epochs : 19
+
+S2
+Batch Size = 100
+Number of iterations = 6000
+Learning Rate = 0.01
+Num of Hidden Nodes = 100
+Accuracy: 55.17
+Number of Epochs : 19
+
+S3
+Batch Size = 100
+Number of iterations = 10000
+Learning Rate = 0.01
+Num of Hidden Nodes = 100
+Accuracy: 54.71
+Number of Epochs : 32
+
+s4
+Batch Size = 100
+Number of iterations = 10000
+Learning Rate = 0.01
+Num of Hidden Nodes = 100
+Accuracy: 55.95
+Number of Epochs : 32
